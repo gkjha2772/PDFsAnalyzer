@@ -72,7 +72,7 @@ Thumbs.db
 .env.production.local
 
 # Ignore uploaded files
-Backend/src/uploads_*
+./Backend/src/uploads_*
 
 # Ignore large local models if present (optional)
 # Uncomment if you don't want models checked into git
