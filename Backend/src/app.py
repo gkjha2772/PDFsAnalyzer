@@ -166,7 +166,7 @@ def analyze():
     except Exception:
         # learning is optional; ignore failures but don't crash
         pass
-
+    
     return jsonify(output)
 
 
